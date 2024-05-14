@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MCP73871T_2CCI_ML'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "MCP73871T-2CCI/ML" (!) = "", "QFN50P400X400X100-21N-D", "Quad Flat No-Lead", "579-MCP73871T2CCIML", "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/MCP73871T-2CCI-ML?qs=qXsUupcbpXwuQ8z0ISUvDA%3D%3D", "MCP73871T-2CCI/ML", "https://www.arrow.com/en/products/mcp73871t-2cciml/microchip-technology?region=nac", "MICROCHIP - MCP73871T-2CCI/ML - Battery Charger, 1 Cell of Li-Ion, Li-Pol Battery, 6V Input, 4.2V/1A Charge, QFN-20", "https://ms.componentsearchengine.com/Datasheets/2/MCP73871T-2CCI_ML.pdf", "1 mm"
+END_PART
+
+END.

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "N2516-6002-RB"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-09-26-00:16:01)
+    (mountForm default
+        (footprintRef "SHDR16W77P254_2X8_2764X859X1004P")
+        (spec "System")
+    )
+)

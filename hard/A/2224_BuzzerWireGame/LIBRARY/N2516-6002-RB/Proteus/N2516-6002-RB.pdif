@@ -1,0 +1,190 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "N2516-6002-RB"
+   (description "CONN HEADER VERT 16POS 2.54MM")
+   (family "CON")
+   (package "SHDR16W77P254_2X8_2764X859X1004P")
+   (attribute "Datasheet Link" "http://multimedia.3m.com/mws/media/330367O/3m-four-wall-header-2500-series-ts-0770.pdf")
+   (attribute "Geometry.Height" "10.04mm")
+   (attribute "Manufacturer_Name" "3M")
+   (attribute "Manufacturer_Part_Number" "N2516-6002-RB")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Arrow Part Number" "N2516-6002-RB")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/n2516-6002-rb/3m?region=europe")
+   (gate
+    (symbol "N2516-6002-RB")
+    (pin "1" 1 PS)
+    (pin "3" 3 PS)
+    (pin "5" 5 PS)
+    (pin "7" 7 PS)
+    (pin "9" 9 PS)
+    (pin "11" 11 PS)
+    (pin "13" 13 PS)
+    (pin "15" 15 PS)
+    (pin "2" 2 PS)
+    (pin "4" 4 PS)
+    (pin "6" 6 PS)
+    (pin "8" 8 PS)
+    (pin "10" 10 PS)
+    (pin "12" 12 PS)
+    (pin "14" 14 PS)
+    (pin "16" 16 PS)
+   )
+  )
+  (symbol "N2516-6002-RB"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -800) (pt 200 -800) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -700) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -600) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -700) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SHDR16W77P254_2X8_2764X859X1004P"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -5.18 -3.275)
+      (pt -5.18 5.945)
+      (pt 23.09 5.945)
+      (pt 23.09 -3.275)
+      (pt -5.18 -3.275))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.93 -3.025)
+      (pt -4.93 5.695)
+      (pt 22.84 5.695)
+      (pt 22.84 -3.025)
+      (pt -4.93 -3.025))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 0 -3.025)
+      (pt 22.84 -3.025)
+      (pt 22.84 5.695)
+      (pt -4.93 5.695)
+      (pt -4.93 0))))
+   (leg 1 (pt 0 0) (padstack 1))
+   (leg 2 (pt 0 2.54) (padstack 0))
+   (leg 3 (pt 2.54 0) (padstack 0))
+   (leg 4 (pt 2.54 2.54) (padstack 0))
+   (leg 5 (pt 5.08 0) (padstack 0))
+   (leg 6 (pt 5.08 2.54) (padstack 0))
+   (leg 7 (pt 7.62 0) (padstack 0))
+   (leg 8 (pt 7.62 2.54) (padstack 0))
+   (leg 9 (pt 10.16 0) (padstack 0))
+   (leg 10 (pt 10.16 2.54) (padstack 0))
+   (leg 11 (pt 12.7 0) (padstack 0))
+   (leg 12 (pt 12.7 2.54) (padstack 0))
+   (leg 13 (pt 15.24 0) (padstack 0))
+   (leg 14 (pt 15.24 2.54) (padstack 0))
+   (leg 15 (pt 17.78 0) (padstack 0))
+   (leg 16 (pt 17.78 2.54) (padstack 0))
+   (padstack 0
+    (hole 0.95)
+    (plated true)
+    (pad (layer TCOP) (round 1.425))
+    (pad (layer INNER) (round 1.425))
+    (pad (layer BCOP) (round 1.425))
+   )
+   (padstack 1
+    (hole 0.95)
+    (plated true)
+    (pad (layer TCOP) (square 1.425))
+    (pad (layer INNER) (round 1.425))
+    (pad (layer BCOP) (square 1.425))
+   )
+   (model "N2516-6002-RB.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

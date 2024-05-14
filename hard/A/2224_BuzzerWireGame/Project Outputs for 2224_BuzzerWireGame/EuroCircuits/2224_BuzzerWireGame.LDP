@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\sanvaliante\Desktop\2224_BuzzerWireGame\2224_BuzzerWireGame.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=2224_buzzerwiregame-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=2224_buzzerwiregame-slotholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=2224_buzzerwiregame-rectholes.txt|DrillLayers=gtl,gbl

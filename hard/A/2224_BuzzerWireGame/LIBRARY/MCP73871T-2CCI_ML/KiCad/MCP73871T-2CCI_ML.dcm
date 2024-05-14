@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP73871T-2CCI_ML
+D MICROCHIP - MCP73871T-2CCI/ML - Battery Charger, 1 Cell of Li-Ion, Li-Pol Battery, 6V Input, 4.2V/1A Charge, QFN-20
+K
+F https://ms.componentsearchengine.com/Datasheets/2/MCP73871T-2CCI_ML.pdf
+$ENDCMP
+#
+#End Doc Library

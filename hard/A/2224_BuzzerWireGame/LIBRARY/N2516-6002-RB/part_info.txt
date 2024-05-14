@@ -1,0 +1,9 @@
+Manufacturer=3M
+PartNumber=N2516-6002-RB
+PartCategory=Connector
+PackageCategory=Header, Shrouded - Straight PTH Box
+PinCount=16
+Version=1.1
+Released=2019-09-26 00:16:01
+Downloaded=2023-02-22 10:11:07
+3D=Y

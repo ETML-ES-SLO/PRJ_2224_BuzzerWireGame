@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'N2516_6002_RB'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "3M", "N2516-6002-RB" (!) = "", "SHDR16W77P254_2X8_2764X859X1004P", "Header, Shrouded - Straight PTH Box", "", "", "N2516-6002-RB", "https://www.arrow.com/en/products/n2516-6002-rb/3m?region=europe", "CONN HEADER VERT 16POS 2.54MM", "http://multimedia.3m.com/mws/media/330367O/3m-four-wall-header-2500-series-ts-0770.pdf", "10.04 mm"
+END_PART
+
+END.

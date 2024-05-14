@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP N2516-6002-RB
+D CONN HEADER VERT 16POS 2.54MM
+K
+F http://multimedia.3m.com/mws/media/330367O/3m-four-wall-header-2500-series-ts-0770.pdf
+$ENDCMP
+#
+#End Doc Library
